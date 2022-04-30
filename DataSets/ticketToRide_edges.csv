@@ -1,0 +1,99 @@
+,orig,dest,distance,color,orig_lat,orig_lon,dest_lat,dest_lon
+0,Vancouver,Seattle,1,gray,49.28,-123.12,47.6,-122.33
+1,Vancouver,Seattle,1,gray,49.28,-123.12,47.6,-122.33
+2,Vancouver,Calgary,3,gray,49.28,-123.12,51.04,-114.07
+3,Seattle,Portland,1,gray,47.6,-122.33,45.5,-122.67
+4,Seattle,Calgary,4,gray,47.6,-122.33,51.04,-114.07
+5,Seattle,Helena,6,yellow,47.6,-122.33,46.59,-112.04
+6,Calgary,Helena,4,gray,51.04,-114.07,46.59,-112.04
+7,Calgary,Winnipeg,6,white,51.04,-114.07,49.9,-97.14
+8,Portland,San Francisco,5,green,45.5,-122.67,37.77,-122.42
+9,Portland,San Francisco,5,pink,45.5,-122.67,37.77,-122.42
+10,Portland,Salt Lake City,6,blue,45.5,-122.67,40.76,-111.89
+11,Helena,Salt Lake City,3,pink,46.59,-112.04,40.76,-111.89
+12,Helena,Winnipeg,4,blue,46.59,-112.04,49.9,-97.14
+13,Helena,Duluth,6,orange,46.59,-112.04,46.78,-92.0
+14,Helena,Omaha,5,red,46.59,-112.04,41.25,-95.93
+15,Helena,Denver,4,green,46.59,-112.04,39.74,-104.99
+16,Winnipeg,Sault St Marie,6,gray,49.9,-97.14,46.51,-84.33
+17,Winnipeg,Duluth,4,black,49.9,-97.14,46.78,-92.0
+18,San Francisco,Salt Lake City,5,orange,37.77,-122.42,40.76,-111.89
+19,San Francisco,Salt Lake City,5,yellow,37.77,-122.42,40.76,-111.89
+20,San Francisco,Los Angeles,3,pink,37.77,-122.42,34.05,-118.24
+21,San Francisco,Los Angeles,3,yellow,37.77,-122.42,34.05,-118.24
+22,Salt Lake City,Denver,3,red,40.76,-111.89,39.74,-104.99
+23,Salt Lake City,Denver,3,yellow,40.76,-111.89,39.74,-104.99
+24,Duluth,Sault St Marie,3,yellow,46.78,-92.0,46.51,-84.33
+25,Duluth,Toronto,6,pink,46.78,-92.0,46.65,-79.38
+26,Duluth,Chicago,3,red,46.78,-92.0,41.88,-87.63
+27,Duluth,Omaha,2,gray,46.78,-92.0,41.25,-95.93
+28,Duluth,Omaha,2,green,46.78,-92.0,41.25,-95.93
+29,Omaha,Denver,4,pink,41.25,-95.93,39.74,-104.99
+30,Omaha,Kansas City,1,gray,41.25,-95.93,39.1,-94.58
+31,Omaha,Kansas City,1,gray,41.25,-95.93,39.1,-94.58
+32,Omaha,Chicago,4,blue,41.25,-95.93,41.88,-87.63
+33,Denver,Kansas City,4,black,39.74,-104.99,39.1,-94.58
+34,Denver,Kansas City,4,orange,39.74,-104.99,39.1,-94.58
+35,Denver,Phoenix,5,white,39.74,-104.99,33.44,-112.07
+36,Denver,Santa Fe,2,gray,39.74,-104.99,35.68,-105.94
+37,Denver,Oklahoma City,4,red,39.74,-104.99,35.46,-97.51
+38,Sault St Marie,Montreal,5,black,46.51,-84.33,45.5,-73.56
+39,Sault St Marie,Toronto,1,red,46.51,-84.33,46.65,-79.38
+40,Los Angeles,El Paso,6,black,34.05,-118.24,31.76,-106.48
+41,Los Angeles,Phoenix,3,gray,34.05,-118.24,33.44,-112.07
+42,Toronto,Montreal,3,gray,46.65,-79.38,45.5,-73.56
+43,Toronto,Pittsburgh,2,gray,46.65,-79.38,40.44,-80.0
+44,Toronto,Chicago,4,white,46.65,-79.38,41.88,-87.63
+45,Chicago,Pittsburgh,3,orange,41.88,-87.63,40.44,-80.0
+46,Chicago,Pittsburgh,3,black,41.88,-87.63,40.44,-80.0
+47,Chicago,St Louis,2,green,41.88,-87.63,38.62,-90.2
+48,Chicago,St Louis,2,white,41.88,-87.63,38.62,-90.2
+49,Kansas City,St Louis,2,green,39.1,-94.58,38.62,-90.2
+50,Kansas City,St Louis,2,pink,39.1,-94.58,38.62,-90.2
+51,Kansas City,Oklahoma City,2,yellow,39.1,-94.58,35.46,-97.51
+52,Kansas City,Oklahoma City,2,gray,39.1,-94.58,35.46,-97.51
+53,Phoenix,Denver,5,white,33.44,-112.07,39.74,-104.99
+54,Phoenix,Santa Fe,3,blue,33.44,-112.07,35.68,-105.94
+55,Phoenix,El Paso,3,gray,33.44,-112.07,31.76,-106.48
+56,Santa Fe,Oklahoma City,3,blue,35.68,-105.94,35.46,-97.51
+57,Santa Fe,El Paso,2,gray,35.68,-105.94,31.76,-106.48
+58,Oklahoma City,El Paso,5,yellow,35.46,-97.51,31.76,-106.48
+59,Oklahoma City,Dallas,2,gray,35.46,-97.51,32.77,-96.8
+60,Oklahoma City,Dallas,2,gray,35.46,-97.51,32.77,-96.8
+61,Oklahoma City,Little Rock,2,black,35.46,-97.51,34.74,-92.29
+62,Montreal,Boston,2,red,45.5,-73.56,42.36,-71.06
+63,Montreal,Boston,2,gray,45.5,-73.56,42.36,-71.06
+64,Montreal,New York,3,blue,45.5,-73.56,40.71,-74.0
+65,El Paso,Dallas,4,red,31.76,-106.48,32.77,-96.8
+66,El Paso,Houston,6,green,31.76,-106.48,29.76,-95.37
+67,Pittsburgh,New York,2,white,40.44,-80.0,40.71,-74.0
+68,Pittsburgh,New York,2,green,40.44,-80.0,40.71,-74.0
+69,Pittsburgh,Washington,2,gray,40.44,-80.0,38.9,-77.03
+70,Pittsburgh,Raleigh,2,gray,40.44,-80.0,35.78,-78.63
+71,Pittsburgh,Nashville,4,yellow,40.44,-80.0,36.16,-86.78
+72,Pittsburgh,St Louis,5,red,40.44,-80.0,38.62,-90.2
+73,St Louis,Little Rock,2,gray,38.62,-90.2,34.74,-92.29
+74,St Louis,Nashville,2,gray,38.62,-90.2,36.16,-86.78
+75,Dallas,Little Rock,2,gray,32.77,-96.8,34.74,-92.29
+76,Dallas,Houston,1,gray,32.77,-96.8,29.76,-95.37
+77,Dallas,Houston,1,gray,32.77,-96.8,29.76,-95.37
+78,Little Rock,Nashville,3,white,34.74,-92.29,36.16,-86.78
+79,Little Rock,New Orleans,3,green,34.74,-92.29,29.95,-90.07
+80,Boston,New York,2,yellow,42.36,-71.06,40.71,-74.0
+81,Boston,New York,2,red,42.36,-71.06,40.71,-74.0
+82,New York,Washington,2,orange,40.71,-74.0,38.9,-77.03
+83,New York,Washington,2,black,40.71,-74.0,38.9,-77.03
+84,Raleigh,Nashville,3,black,35.78,-78.63,36.16,-86.78
+85,Raleigh,Washington,2,gray,35.78,-78.63,38.9,-77.03
+86,Raleigh,Washington,2,gray,35.78,-78.63,38.9,-77.03
+87,Raleigh,Atlanta,2,gray,35.78,-78.63,33.75,-84.39
+88,Raleigh,Atlanta,2,black,35.78,-78.63,33.75,-84.39
+89,Raleigh,Charleston,2,gray,35.78,-78.63,32.77,-79.93
+90,Nashville,Atlanta,1,gray,36.16,-86.78,33.75,-84.39
+91,Houston,New Orleans,2,yellow,29.76,-95.37,29.95,-90.07
+92,New Orleans,Atlanta,4,yellow,29.95,-90.07,33.75,-84.39
+93,New Orleans,Atlanta,4,orange,29.95,-90.07,33.75,-84.39
+94,New Orleans,Miami,6,red,29.95,-90.07,25.76,-80.19
+95,Atlanta,Charleston,2,gray,33.75,-84.39,32.77,-79.93
+96,Atlanta,Miami,5,black,33.75,-84.39,25.76,-80.19
+97,Charleston,Miami,4,pink,32.77,-79.93,25.76,-80.19
